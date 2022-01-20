@@ -20,6 +20,6 @@ show Games202 hw pictures
  
  ![hw4](./hw4/realtime.jpg)
  
- - 作业五：实时光追降噪，À-Trous Wavelet加速
+ - 作业五：实时光追降噪，À-Trous Wavelet加速（mp4文件可能需要你下载下来看
  
  ![hw5](./hw5/hw5_filter_contrast.mp4)
