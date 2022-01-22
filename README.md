@@ -5,7 +5,7 @@ show Games202 hw pictures
  
 ![hw1](./hw1/PCSS.png)
 
- - 作业二：自反射，prt实现失败
+ - 作业二：自反射，prt
  
  ![hw2](./hw2/Interreflection_in_webgl.png)
  
